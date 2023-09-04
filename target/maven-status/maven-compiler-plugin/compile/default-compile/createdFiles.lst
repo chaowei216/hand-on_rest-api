@@ -1,0 +1,4 @@
+com\mycompany\bookstore\dao\BookDAO.class
+com\mycompany\bookstore\dao\Book.class
+com\mycompany\bookstore\util\DBUtil.class
+com\mycompany\bookstore\ws\BookWS.class
